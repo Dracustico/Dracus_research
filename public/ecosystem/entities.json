@@ -1,0 +1,12 @@
+{
+  "schema": "dracus.ecosystem.entities/v1",
+  "autonomy": "rule-governed",
+  "publicationAuthorized": true,
+  "entities": [
+    {"id":"maia-cell","domain":"geometry","state":"27-nodes","maturity":"model"},
+    {"id":"harmonic-path","domain":"topology","state":"open-traceable-path","maturity":"prototype"},
+    {"id":"resonance-field","domain":"acoustics","state":"frequency-phase-intensity-time","maturity":"experiment"},
+    {"id":"syllabic-unit","domain":"language","state":"explainable-pronounceable-structure","maturity":"prototype"},
+    {"id":"scientific-memory","domain":"epistemonics","state":"versions-sources-decisions-limits","maturity":"model"}
+  ]
+}

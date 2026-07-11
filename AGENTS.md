@@ -15,3 +15,7 @@
 - Lola Psyca é o sistema cognitivo; Professor Lola é sua função pedagógica; Medusa é o avatar local; Dragão é a função crítica interna.
 - Não declarar consciência artificial existente sem critérios experimentais satisfeitos.
 - Nenhuma alteração da cabine do operador publica automaticamente; publicação exige autorização humana.
+- O ecossistema deve permanecer exportável, reconstruível e operável sem fornecedor obrigatório.
+- Entidades matemáticas possuem identidade, estado, invariantes e operadores declarados.
+- Nenhuma entidade altera invariantes, apaga memória ou promove a própria maturidade.
+- Toda transição relevante registra causa, versão, estado anterior e estado posterior.

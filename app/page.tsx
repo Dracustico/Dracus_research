@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import { OperatorConsole } from "./operator-console";
+import { EcosystemSection } from "./ecosystem-section";
 
 export const metadata: Metadata = {
   title: "Dracus Research — Laboratório independente",
@@ -28,6 +29,7 @@ export default function Home() {
         <nav aria-label="Navegação principal">
           <a href="#pesquisas">Pesquisas</a>
           <a href="#metodo">Método</a>
+          <a href="#ecossistema">Ecossistema</a>
           <a href="#lola">Professor Lola</a>
         </nav>
         <button className="operator-trigger" data-open-operator aria-label="Abrir cabine do operador">
@@ -107,8 +109,10 @@ export default function Home() {
         </aside>
       </section>
 
+      <EcosystemSection />
+
       <section className="current-state" id="estado">
-        <p className="section-index">03 / ESTADO ATUAL</p>
+        <p className="section-index">04 / ESTADO ATUAL</p>
         <h2 data-sign-id="stateTitle">Portal em fundação curatorial</h2>
         <p data-sign-id="stateBody">
           A estrutura pública está sendo construída sob revisão humana. Nenhum conteúdo
