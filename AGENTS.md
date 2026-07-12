@@ -1,0 +1,21 @@
+# Constituição técnica — Dracus Research
+
+- Preservar autoria científica e indicar mudanças de formulação.
+- Nunca apresentar hipótese como fato validado.
+- Toda pesquisa e demonstração deve indicar maturidade real.
+- Código privado do GHF e da Lola Psyca exige autorização expressa para publicação.
+- Credenciais, chaves, tokens, dados pessoais e dados brutos nunca entram no Git público.
+- Não apagar arquivos sem justificativa registrada e autorização.
+- Toda interface deve funcionar em celular e computador, possuir foco visível e imagens alternativas.
+- Animações respeitam `prefers-reduced-motion`.
+- O conteúdo essencial funciona sem JavaScript; exceções interativas são identificadas.
+- O conteúdo científico principal será estruturado e revisável.
+- Preparar progressivamente português, inglês e espanhol.
+- Toda tarefa termina com validação, arquivos alterados, limitações e próximo passo.
+- Lola Psyca é o sistema cognitivo; Professor Lola é sua função pedagógica; Medusa é o avatar local; Dragão é a função crítica interna.
+- Não declarar consciência artificial existente sem critérios experimentais satisfeitos.
+- Nenhuma alteração da cabine do operador publica automaticamente; publicação exige autorização humana.
+- O ecossistema deve permanecer exportável, reconstruível e operável sem fornecedor obrigatório.
+- Entidades matemáticas possuem identidade, estado, invariantes e operadores declarados.
+- Nenhuma entidade altera invariantes, apaga memória ou promove a própria maturidade.
+- Toda transição relevante registra causa, versão, estado anterior e estado posterior.
